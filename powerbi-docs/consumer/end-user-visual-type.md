@@ -40,30 +40,6 @@ The basic area chart is based on the line chart with the area between the axis a
 
 Bar charts are the standard for looking at a specific value across different categories.
 
-## C
-### Cards: Single number
-![single number card](media/end-user-visual-type/pbi-nancy-viz-card.png)
-
-Single number cards display a single fact, a single data point. Sometimes a single number is the most important thing you want to track in your Power BI dashboard or report, such as total sales, market share year over year, or total opportunities.  
-
-### Cards: Multi row
-![multi row card](media/end-user-visual-type/multi-row-card.png)
-
-Multi row cards display one or more data points, one per row.
-
-
-### Combo charts
-![combo chart](media/end-user-visual-type/combo-small.png)
-
-A combo chart combines a column chart and a line chart. Combining the two charts into one lets you make a quicker comparison of the data. Combo charts can have one or two Y axes, so be sure to look closely. 
-
-Combo charts are a great choice:
-- when you have a line chart and a column chart with the same X axis.
-- to compare multiple measures with different value ranges
-- to illustrate the correlation between two measures in one visual
-- to check whether one measure meets the target which is defined by another measure
-- to conserve canvas space
-
 ## D    
 ### Decomposition tree
 ![decomposition tree](media/end-user-visual-type/power-bi-decomposition.png)
